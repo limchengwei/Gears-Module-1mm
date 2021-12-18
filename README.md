@@ -1,4 +1,4 @@
-# Gears-Module-1mm
+# Spur gears-Module-1mm
 
 Prime number gear teeth
 11 to 97 teeth
